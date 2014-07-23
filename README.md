@@ -1,7 +1,7 @@
 # Matts Medium
 
 
-A jQuery plugin to make a parallax intro slide like [https://medium.com/about/9e53ca408c48](medium.com)
+A jQuery plugin to make a parallax intro slide like [medium.com](https://medium.com/about/9e53ca408c48)
 
 
 **Features**
